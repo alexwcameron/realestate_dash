@@ -11,7 +11,7 @@ from bokeh.transform import factor_cmap
 import pandas as pd
 import math
 
-st.write("Australian Property Prices")
+st.write("Australian Property Dashboard")
 
 from vizs import total_loans_value, owner_vs_investor, first_time_owner_vs_investor, first_time_investor
 
